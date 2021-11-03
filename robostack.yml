@@ -9,3 +9,6 @@ dependencies:
 - jupyterlab-ros=0.2.1
 - vs2019_win-64=19.29.30037
 - nodejs=12.19.0
+- numpy
+- pandas
+- matplotlib

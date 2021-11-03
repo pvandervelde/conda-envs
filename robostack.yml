@@ -1,0 +1,11 @@
+name: robostack
+channels:
+- conda-forge
+- robostack
+dependencies:
+- python=3.8.*
+- ros-noetic-moveit=1.1.0
+- ros-noetic-desktop-full=1.5.0
+- jupyterlab-ros=0.2.1
+- vs2019_win-64=19.29.30037
+- nodejs=12.19.0

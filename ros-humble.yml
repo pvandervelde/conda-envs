@@ -6,6 +6,8 @@ channels:
 - robostack-experimental
 dependencies:
 - python
+- plotly
+- kaleido
 - pytest
 - pyyaml
 - pydantic

@@ -7,7 +7,7 @@ channels:
 dependencies:
 - python
 - plotly
-- kaleido
+- python-kaleido
 - pytest
 - pyyaml
 - pydantic
